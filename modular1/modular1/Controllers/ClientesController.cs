@@ -70,5 +70,10 @@ namespace modular1.Controllers
 
             return Json(new { resultado = resultado, mensaje = mensaje }, JsonRequestBehavior.AllowGet);
         }
+        public ActionResult Carrito()
+        {
+            return View();
+        }
+
     }
 }

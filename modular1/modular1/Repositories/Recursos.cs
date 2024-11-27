@@ -2,13 +2,18 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-
 using System.Security.Cryptography;
 using System.Text;
-
 using System.Net.Mail;
 using System.Net;
 using System.IO;
+using System.Net.Http;
+using System.Net.Http.Headers;
+using System.Threading.Tasks;
+using Newtonsoft.Json;
+using modular1.Repositories.Paypal;
+using System.Configuration;
+
 
 namespace modular1.Repositories
 {
@@ -109,6 +114,70 @@ namespace modular1.Repositories
             }
 
             return resultado;
+        }
+
+        // Método para crear una solicitud a PayPal
+        public static async Task<Response_Paypal<Response_Checkout>> CrearSolicitudPaypal(Checkout_Order orden)
+        {
+            Response_Paypal<Response_Checkout> response_paypal = new Response_Paypal<Response_Checkout>();
+            string urlPaypal = ConfigurationManager.AppSettings["UrlPaypal"];
+            string clientId = ConfigurationManager.AppSettings["ClientId"];
+            string secret = ConfigurationManager.AppSettings["Secret"];
+
+            try
+            {
+                using (var client = new HttpClient())
+                {
+                    client.BaseAddress = new Uri(urlPaypal);
+
+                    // Configurar autenticación básica en el encabezado
+                    var authToken = Encoding.ASCII.GetBytes($"{clientId}:{secret}");
+                    client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Basic", Convert.ToBase64String(authToken));
+
+                    // Serializar el objeto de orden a JSON
+                    var json = JsonConvert.SerializeObject(orden);
+                    var data = new StringContent(json, Encoding.UTF8, "application/json");
+
+                    // Enviar la solicitud POST al endpoint de PayPal
+                    HttpResponseMessage response = await client.PostAsync("/v2/checkout/orders", data);
+
+                    // Validar si la solicitud fue exitosa
+                    if (response.IsSuccessStatusCode)
+                    {
+                        string jsonRespuesta = await response.Content.ReadAsStringAsync();
+                        Response_Checkout checkout = JsonConvert.DeserializeObject<Response_Checkout>(jsonRespuesta);
+                        response_paypal.Response = checkout;
+                        response_paypal.Status = true;
+                    }
+                    else
+                    {
+                        // Manejo de errores al recibir una respuesta no exitosa
+                        string error = await response.Content.ReadAsStringAsync();
+                        response_paypal.Status = false;
+                        response_paypal.Message = $"Error en la solicitud: {error}";
+                    }
+                }
+            }
+            catch (HttpRequestException httpEx)
+            {
+                // Manejo de excepciones específicas de solicitudes HTTP
+                response_paypal.Status = false;
+                response_paypal.Message = $"Error en la comunicación con PayPal: {httpEx.Message}";
+            }
+            catch (JsonException jsonEx)
+            {
+                // Manejo de errores de deserialización
+                response_paypal.Status = false;
+                response_paypal.Message = $"Error al procesar la respuesta de PayPal: {jsonEx.Message}";
+            }
+            catch (Exception ex)
+            {
+                // Manejo general de excepciones
+                response_paypal.Status = false;
+                response_paypal.Message = $"Error inesperado: {ex.Message}";
+            }
+
+            return response_paypal;
         }
 
     }
