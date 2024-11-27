@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|solutionrelative:modular1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|c:\\users\\ul13m\\documents\\github\\analisiscasoarquitectura\\modular1\\modular1\\views\\tienda\\carrito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|solutionrelative:modular1\\views\\tienda\\carrito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\repositories\\recursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|solutionrelative:modular1\\repositories\\recursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|solutionrelative:modular1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|solutionrelative:modular1\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\views\\tienda\\pagoefectuado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|solutionrelative:modular1\\views\\tienda\\pagoefectuado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|solutionrelative:modular1\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\controllers\\tiendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|solutionrelative:modular1\\controllers\\tiendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\views\\productos\\vistaproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|solutionrelative:modular1\\views\\productos\\vistaproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\views\\productos\\producto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|solutionrelative:modular1\\views\\productos\\producto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|c:\\users\\ul13m\\documents\\github\\analisiscasoarquitectura\\modular1\\modular1\\views\\tienda\\carrito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|solutionrelative:modular1\\views\\tienda\\carrito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|solutionrelative:modular1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\repositories\\recursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|solutionrelative:modular1\\repositories\\recursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\views\\tienda\\pagoefectuado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|solutionrelative:modular1\\views\\tienda\\pagoefectuado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\views\\tienda\\detalleproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -37,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|solutionrelative:modular1\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|solutionrelative:modular1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,16 +71,8 @@
       "RelativeMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|solutionrelative:modular1\\views\\usuarios\\usuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\views\\productos\\producto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|solutionrelative:modular1\\views\\productos\\producto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\repositories\\usuariosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|solutionrelative:modular1\\repositories\\usuariosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\views\\productos\\vistaproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|solutionrelative:modular1\\views\\productos\\vistaproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\views\\productos\\marca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -109,10 +113,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|solutionrelative:modular1\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|solutionrelative:modular1\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D575576F-64B5-41C7-80B8-F923C9864BC8}|modular1\\modular1.csproj|C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -158,7 +158,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -174,85 +174,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DetalleProducto.cshtml",
-              "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Views\\Tienda\\DetalleProducto.cshtml",
-              "RelativeDocumentMoniker": "modular1\\Views\\Tienda\\DetalleProducto.cshtml",
-              "ToolTip": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Views\\Tienda\\DetalleProducto.cshtml",
-              "RelativeToolTip": "modular1\\Views\\Tienda\\DetalleProducto.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T01:00:59.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Carrito.cshtml",
-              "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Views\\Tienda\\Carrito.cshtml",
-              "RelativeDocumentMoniker": "modular1\\Views\\Tienda\\Carrito.cshtml",
-              "ToolTip": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Views\\Tienda\\Carrito.cshtml",
-              "RelativeToolTip": "modular1\\Views\\Tienda\\Carrito.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T01:00:49.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Producto.cshtml",
+              "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Views\\Productos\\Producto.cshtml",
+              "RelativeDocumentMoniker": "modular1\\Views\\Productos\\Producto.cshtml",
+              "ToolTip": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Views\\Productos\\Producto.cshtml",
+              "RelativeToolTip": "modular1\\Views\\Productos\\Producto.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwAEBAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T12:45:04.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VistaProductos.cshtml",
+              "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Views\\Productos\\VistaProductos.cshtml",
+              "RelativeDocumentMoniker": "modular1\\Views\\Productos\\VistaProductos.cshtml",
+              "ToolTip": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Views\\Productos\\VistaProductos.cshtml",
+              "RelativeToolTip": "modular1\\Views\\Productos\\VistaProductos.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADMAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T23:06:46.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TiendaController.cs",
               "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Controllers\\TiendaController.cs",
               "RelativeDocumentMoniker": "modular1\\Controllers\\TiendaController.cs",
               "ToolTip": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Controllers\\TiendaController.cs",
               "RelativeToolTip": "modular1\\Controllers\\TiendaController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAmAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T01:00:04.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Usuarios.cshtml",
-              "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Views\\Usuarios\\Usuarios.cshtml",
-              "RelativeDocumentMoniker": "modular1\\Views\\Usuarios\\Usuarios.cshtml",
-              "ToolTip": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Views\\Usuarios\\Usuarios.cshtml",
-              "RelativeToolTip": "modular1\\Views\\Usuarios\\Usuarios.cshtml",
-              "ViewState": "AQIAANMAAAAAAAAAAAAuwPkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T12:42:59.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoriaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Repositories\\CategoriaRepository.cs",
-              "RelativeDocumentMoniker": "modular1\\Repositories\\CategoriaRepository.cs",
-              "ToolTip": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Repositories\\CategoriaRepository.cs",
-              "RelativeToolTip": "modular1\\Repositories\\CategoriaRepository.cs",
-              "ViewState": "AQIAAHUAAAAAAAAAAAAwwJgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T21:08:00.323Z",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Web.config",
+              "RelativeDocumentMoniker": "modular1\\Web.config",
+              "ToolTip": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Web.config",
+              "RelativeToolTip": "modular1\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-28T00:28:28.309Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "modular1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "modular1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-28T00:43:04.849Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
               "Title": "Marca.cshtml",
               "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Views\\Productos\\Marca.cshtml",
               "RelativeDocumentMoniker": "modular1\\Views\\Productos\\Marca.cshtml",
@@ -265,33 +239,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "modular1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "modular1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T00:43:04.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Recursos.cs",
-              "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Repositories\\Recursos.cs",
-              "RelativeDocumentMoniker": "modular1\\Repositories\\Recursos.cs",
-              "ToolTip": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Repositories\\Recursos.cs",
-              "RelativeToolTip": "modular1\\Repositories\\Recursos.cs",
-              "ViewState": "AQIAAIUAAAAAAAAAAAAcwA8AAAAAAAAA",
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Conexion\\Conexion.cs",
+              "RelativeDocumentMoniker": "modular1\\Conexion\\Conexion.cs",
+              "ToolTip": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Conexion\\Conexion.cs",
+              "RelativeToolTip": "modular1\\Conexion\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T18:14:31.208Z",
+              "WhenOpened": "2024-10-29T12:47:59.692Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductosController.cs",
-              "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Controllers\\ProductosController.cs",
-              "RelativeDocumentMoniker": "modular1\\Controllers\\ProductosController.cs",
-              "ToolTip": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Controllers\\ProductosController.cs",
-              "RelativeToolTip": "modular1\\Controllers\\ProductosController.cs",
-              "ViewState": "AQIAALsAAAAAAAAAAAD4v9cAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "CategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Repositories\\CategoriaRepository.cs",
+              "RelativeDocumentMoniker": "modular1\\Repositories\\CategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Repositories\\CategoriaRepository.cs",
+              "RelativeToolTip": "modular1\\Repositories\\CategoriaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T12:40:53.986Z",
+              "WhenOpened": "2024-10-29T21:08:00.323Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "Carrito.cshtml",
+              "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Views\\Tienda\\Carrito.cshtml",
+              "RelativeDocumentMoniker": "modular1\\Views\\Tienda\\Carrito.cshtml",
+              "ToolTip": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Views\\Tienda\\Carrito.cshtml",
+              "RelativeToolTip": "modular1\\Views\\Tienda\\Carrito.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T01:00:49.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "modular1\\Controllers\\HomeController.cs",
@@ -304,7 +304,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "modular1\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "modular1\\Controllers\\ProductosController.cs",
+              "ViewState": "AQIAALsAAAAAAAAAAAD4v9cAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:40:53.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Recursos.cs",
+              "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Repositories\\Recursos.cs",
+              "RelativeDocumentMoniker": "modular1\\Repositories\\Recursos.cs",
+              "ToolTip": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Repositories\\Recursos.cs",
+              "RelativeToolTip": "modular1\\Repositories\\Recursos.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAcwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:14:31.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Usuarios.cshtml",
+              "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Views\\Usuarios\\Usuarios.cshtml",
+              "RelativeDocumentMoniker": "modular1\\Views\\Usuarios\\Usuarios.cshtml",
+              "ToolTip": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Views\\Usuarios\\Usuarios.cshtml",
+              "RelativeToolTip": "modular1\\Views\\Usuarios\\Usuarios.cshtml",
+              "ViewState": "AQIAANMAAAAAAAAAAAAuwPkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T12:42:59.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DetalleProducto.cshtml",
+              "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Views\\Tienda\\DetalleProducto.cshtml",
+              "RelativeDocumentMoniker": "modular1\\Views\\Tienda\\DetalleProducto.cshtml",
+              "ToolTip": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Views\\Tienda\\DetalleProducto.cshtml",
+              "RelativeToolTip": "modular1\\Views\\Tienda\\DetalleProducto.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T01:00:59.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "PagoEfectuado.cshtml",
               "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Views\\Tienda\\PagoEfectuado.cshtml",
               "RelativeDocumentMoniker": "modular1\\Views\\Tienda\\PagoEfectuado.cshtml",
@@ -317,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "UsuariosController.cs",
               "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Controllers\\UsuariosController.cs",
               "RelativeDocumentMoniker": "modular1\\Controllers\\UsuariosController.cs",
@@ -330,20 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Web.config",
-              "RelativeDocumentMoniker": "modular1\\Web.config",
-              "ToolTip": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Web.config",
-              "RelativeToolTip": "modular1\\Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-10-28T00:28:28.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "UsuariosRepository.cs",
               "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Repositories\\UsuariosRepository.cs",
               "RelativeDocumentMoniker": "modular1\\Repositories\\UsuariosRepository.cs",
@@ -356,20 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Producto.cshtml",
-              "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Views\\Productos\\Producto.cshtml",
-              "RelativeDocumentMoniker": "modular1\\Views\\Productos\\Producto.cshtml",
-              "ToolTip": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Views\\Productos\\Producto.cshtml",
-              "RelativeToolTip": "modular1\\Views\\Productos\\Producto.cshtml",
-              "ViewState": "AQIAAOsAAAAAAAAAAAAuwAEBAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T12:45:04.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "ClientesController.cs",
               "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Controllers\\ClientesController.cs",
               "RelativeDocumentMoniker": "modular1\\Controllers\\ClientesController.cs",
@@ -382,7 +408,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "ClienteRepository.cs",
               "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Repositories\\ClienteRepository.cs",
               "RelativeDocumentMoniker": "modular1\\Repositories\\ClienteRepository.cs",
@@ -395,7 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Clientes.cshtml",
               "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Views\\Clientes\\Clientes.cshtml",
               "RelativeDocumentMoniker": "modular1\\Views\\Clientes\\Clientes.cshtml",
@@ -408,20 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "VistaProductos.cshtml",
-              "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Views\\Productos\\VistaProductos.cshtml",
-              "RelativeDocumentMoniker": "modular1\\Views\\Productos\\VistaProductos.cshtml",
-              "ToolTip": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Views\\Productos\\VistaProductos.cshtml",
-              "RelativeToolTip": "modular1\\Views\\Productos\\VistaProductos.cshtml",
-              "ViewState": "AQIAABQAAAAAAAAAAAAuwCYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T23:06:46.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "ProductoRepository.cs",
               "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Repositories\\ProductoRepository.cs",
               "RelativeDocumentMoniker": "modular1\\Repositories\\ProductoRepository.cs",
@@ -434,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "modular1\\Models\\Producto.cs",
@@ -447,7 +460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "BundleConfig.cs",
               "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\App_Start\\BundleConfig.cs",
               "RelativeDocumentMoniker": "modular1\\App_Start\\BundleConfig.cs",
@@ -460,7 +473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "MarcaRepository.cs",
               "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Repositories\\MarcaRepository.cs",
               "RelativeDocumentMoniker": "modular1\\Repositories\\MarcaRepository.cs",
@@ -473,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Marca.cs",
               "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Models\\Marca.cs",
               "RelativeDocumentMoniker": "modular1\\Models\\Marca.cs",
@@ -494,11 +507,12 @@
               "RelativeToolTip": "modular1\\Models\\Usuario.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T12:11:43.63Z"
+              "WhenOpened": "2024-10-29T12:11:43.63Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Categoria.cshtml",
               "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Views\\Productos\\Categoria.cshtml",
               "RelativeDocumentMoniker": "modular1\\Views\\Productos\\Categoria.cshtml",
@@ -506,11 +520,12 @@
               "RelativeToolTip": "modular1\\Views\\Productos\\Categoria.cshtml",
               "ViewState": "AQIAAKAAAAAAAAAAAAAuwMYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T12:44:50.224Z"
+              "WhenOpened": "2024-10-29T12:44:50.224Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Models\\Categoria.cs",
               "RelativeDocumentMoniker": "modular1\\Models\\Categoria.cs",
@@ -518,11 +533,12 @@
               "RelativeToolTip": "modular1\\Models\\Categoria.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T01:01:15.316Z"
+              "WhenOpened": "2024-10-28T01:01:15.316Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "modular1\\Views\\Home\\Index.cshtml",
@@ -530,19 +546,8 @@
               "RelativeToolTip": "modular1\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T21:12:41.158Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Conexion\\Conexion.cs",
-              "RelativeDocumentMoniker": "modular1\\Conexion\\Conexion.cs",
-              "ToolTip": "C:\\Users\\ul13m\\Documents\\GitHub\\analisisCasoArquitectura\\modular1\\modular1\\Conexion\\Conexion.cs",
-              "RelativeToolTip": "modular1\\Conexion\\Conexion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T12:47:59.692Z"
+              "WhenOpened": "2024-10-29T21:12:41.158Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
