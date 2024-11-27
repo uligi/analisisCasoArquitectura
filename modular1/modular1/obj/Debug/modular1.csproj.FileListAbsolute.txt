@@ -84,3 +84,7 @@ C:\Users\ul13m\source\repos\modular1\modular1\obj\Debug\modular1.csproj.CoreComp
 C:\Users\ul13m\source\repos\modular1\modular1\obj\Debug\modular1.csproj.Up2Date
 C:\Users\ul13m\source\repos\modular1\modular1\obj\Debug\modular1.dll
 C:\Users\ul13m\source\repos\modular1\modular1\obj\Debug\modular1.pdb
+C:\Users\ul13m\Documents\GitHub\analisisCasoArquitectura\modular1\modular1\obj\Debug\modular1.csproj.AssemblyReference.cache
+C:\Users\ul13m\Documents\GitHub\analisisCasoArquitectura\modular1\modular1\obj\Debug\modular1.csproj.CoreCompileInputs.cache
+C:\Users\ul13m\Documents\GitHub\analisisCasoArquitectura\modular1\modular1\obj\Debug\modular1.dll
+C:\Users\ul13m\Documents\GitHub\analisisCasoArquitectura\modular1\modular1\obj\Debug\modular1.pdb
